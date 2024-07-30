@@ -1,6 +1,6 @@
 # .NET-LAB
 
-## Setup .NET SDK
+## 1 Setup .NET SDK
 
 1. **Download the .NET SDK**:
    Download the latest .NET SDK from the following link:
@@ -12,31 +12,28 @@
    dotnet --version
 
 
-# .Navigate to your desired directory and create a new project:
+## 2 .Navigate to your desired directory and create a new project:
 
 dotnet new console -n MyFolder                            
  cd MyFolder
 
  
 
- # .Build and Run the Project:
+ ## 3 .Build and Run the Project:
 
- dotnet build   
-                                                  ----------------- ( code . ) command directy open the myFolder in the vscode 
+ dotnet build 
+[ code . ] command directy open the myFolder in the vscode 
  dotnet run
 
 
  # .to run in vs code
 
- # . add path temporarly
+ ## . add path temporarly in vs code terminal
  $env:PATH += ";C:\Program Files\dotnet"
  Check Dotnet Version:
-
-dotnet --version
-
-
-
-anddd can do all above steps
+ dotnet --version
+ ### . Do steps 2 and 3 except [code .] command
+ 
 
 
 
