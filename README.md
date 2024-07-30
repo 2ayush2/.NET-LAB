@@ -29,7 +29,7 @@ cd MyFolder
  dotnet run
 
 
- # .to run in vs code
+ # To run in vs code
 
  ## . add path temporarly in vs code terminal
  $env:PATH += ";C:\Program Files\dotnet"
