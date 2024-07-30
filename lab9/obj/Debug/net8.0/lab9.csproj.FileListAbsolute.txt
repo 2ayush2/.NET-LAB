@@ -1,0 +1,15 @@
+G:\Personal\.NET-LAB\lab9\bin\Debug\net8.0\lab9.exe
+G:\Personal\.NET-LAB\lab9\bin\Debug\net8.0\lab9.deps.json
+G:\Personal\.NET-LAB\lab9\bin\Debug\net8.0\lab9.runtimeconfig.json
+G:\Personal\.NET-LAB\lab9\bin\Debug\net8.0\lab9.dll
+G:\Personal\.NET-LAB\lab9\bin\Debug\net8.0\lab9.pdb
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\lab9.AssemblyInfoInputs.cache
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\lab9.AssemblyInfo.cs
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\lab9.csproj.CoreCompileInputs.cache
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\lab9.sourcelink.json
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\lab9.dll
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\refint\lab9.dll
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\lab9.pdb
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\lab9.genruntimeconfig.cache
+G:\Personal\.NET-LAB\lab9\obj\Debug\net8.0\ref\lab9.dll

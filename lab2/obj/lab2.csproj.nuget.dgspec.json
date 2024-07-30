@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Personal\\.NET-LAB\\lab2\\lab2.csproj": {}
+    "G:\\Personal\\.NET-LAB\\lab2\\Lab2.csproj": {}
   },
   "projects": {
-    "G:\\Personal\\.NET-LAB\\lab2\\lab2.csproj": {
+    "G:\\Personal\\.NET-LAB\\lab2\\Lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Personal\\.NET-LAB\\lab2\\lab2.csproj",
-        "projectName": "lab2",
-        "projectPath": "G:\\Personal\\.NET-LAB\\lab2\\lab2.csproj",
+        "projectUniqueName": "G:\\Personal\\.NET-LAB\\lab2\\Lab2.csproj",
+        "projectName": "Lab2",
+        "projectPath": "G:\\Personal\\.NET-LAB\\lab2\\Lab2.csproj",
         "packagesPath": "C:\\Users\\khadk\\.nuget\\packages\\",
         "outputPath": "G:\\Personal\\.NET-LAB\\lab2\\obj\\",
         "projectStyle": "PackageReference",

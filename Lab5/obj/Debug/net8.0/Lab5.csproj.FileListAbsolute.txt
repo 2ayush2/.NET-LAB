@@ -1,0 +1,15 @@
+G:\Personal\.NET-LAB\lab5\bin\Debug\net8.0\Lab5.exe
+G:\Personal\.NET-LAB\lab5\bin\Debug\net8.0\Lab5.deps.json
+G:\Personal\.NET-LAB\lab5\bin\Debug\net8.0\Lab5.runtimeconfig.json
+G:\Personal\.NET-LAB\lab5\bin\Debug\net8.0\Lab5.dll
+G:\Personal\.NET-LAB\lab5\bin\Debug\net8.0\Lab5.pdb
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\Lab5.sourcelink.json
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\Lab5.dll
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\refint\Lab5.dll
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\Lab5.pdb
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\Lab5.genruntimeconfig.cache
+G:\Personal\.NET-LAB\lab5\obj\Debug\net8.0\ref\Lab5.dll

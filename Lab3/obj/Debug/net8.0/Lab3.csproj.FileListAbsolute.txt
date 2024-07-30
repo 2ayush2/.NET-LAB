@@ -1,0 +1,15 @@
+G:\Personal\.NET-LAB\lab3\bin\Debug\net8.0\Lab3.exe
+G:\Personal\.NET-LAB\lab3\bin\Debug\net8.0\Lab3.deps.json
+G:\Personal\.NET-LAB\lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+G:\Personal\.NET-LAB\lab3\bin\Debug\net8.0\Lab3.dll
+G:\Personal\.NET-LAB\lab3\bin\Debug\net8.0\Lab3.pdb
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\Lab3.sourcelink.json
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\Lab3.dll
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\refint\Lab3.dll
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\Lab3.pdb
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+G:\Personal\.NET-LAB\lab3\obj\Debug\net8.0\ref\Lab3.dll

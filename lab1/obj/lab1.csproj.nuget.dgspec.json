@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Personal\\.NET-LAB\\lab1\\lab1.csproj": {}
+    "G:\\Personal\\.NET-LAB\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "G:\\Personal\\.NET-LAB\\lab1\\lab1.csproj": {
+    "G:\\Personal\\.NET-LAB\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Personal\\.NET-LAB\\lab1\\lab1.csproj",
-        "projectName": "lab1",
-        "projectPath": "G:\\Personal\\.NET-LAB\\lab1\\lab1.csproj",
+        "projectUniqueName": "G:\\Personal\\.NET-LAB\\Lab1\\Lab1.csproj",
+        "projectName": "Lab1",
+        "projectPath": "G:\\Personal\\.NET-LAB\\Lab1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\khadk\\.nuget\\packages\\",
-        "outputPath": "G:\\Personal\\.NET-LAB\\lab1\\obj\\",
+        "outputPath": "G:\\Personal\\.NET-LAB\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khadk\\AppData\\Roaming\\NuGet\\NuGet.Config"

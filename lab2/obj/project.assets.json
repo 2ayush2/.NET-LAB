@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Personal\\.NET-LAB\\lab2\\lab2.csproj",
-      "projectName": "lab2",
-      "projectPath": "G:\\Personal\\.NET-LAB\\lab2\\lab2.csproj",
+      "projectUniqueName": "G:\\Personal\\.NET-LAB\\Lab2\\Lab2.csproj",
+      "projectName": "Lab2",
+      "projectPath": "G:\\Personal\\.NET-LAB\\Lab2\\Lab2.csproj",
       "packagesPath": "C:\\Users\\khadk\\.nuget\\packages\\",
-      "outputPath": "G:\\Personal\\.NET-LAB\\lab2\\obj\\",
+      "outputPath": "G:\\Personal\\.NET-LAB\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khadk\\AppData\\Roaming\\NuGet\\NuGet.Config"
