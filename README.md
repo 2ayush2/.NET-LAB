@@ -30,10 +30,12 @@ dotnet new console -n MyFolder
 
  ## . add path temporarly in vs code terminal
  $env:PATH += ";C:\Program Files\dotnet"
+
  Check Dotnet Version:
+ 
  dotnet --version
  ### . Do steps 2 and 3 except [code .] command
- 
+
 
 
 
