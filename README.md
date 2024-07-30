@@ -14,15 +14,18 @@
 
 ## 2 .Navigate to your desired directory and create a new project:
 
-dotnet new console -n MyFolder                            
- cd MyFolder
+dotnet new console -n MyFolder      
+
+cd MyFolder
 
  
 
  ## 3 .Build and Run the Project:
 
  dotnet build 
+
 [ code . ] command directy open the myFolder in the vscode 
+
  dotnet run
 
 
@@ -32,7 +35,7 @@ dotnet new console -n MyFolder
  $env:PATH += ";C:\Program Files\dotnet"
 
  Check Dotnet Version:
- 
+
  dotnet --version
  ### . Do steps 2 and 3 except [code .] command
 
