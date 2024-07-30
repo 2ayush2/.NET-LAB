@@ -31,13 +31,13 @@ cd MyFolder
 
  # To run in vs code
 
- ## . add path temporarly in vs code terminal
+ ## - Add path temporarly in vs code terminal
  $env:PATH += ";C:\Program Files\dotnet"
 
  Check Dotnet Version:
 
  dotnet --version
- ### . Do steps 2 and 3 except [code .] command
+ ### - Do steps 2 and 3 except [code .] command
 
 
 
