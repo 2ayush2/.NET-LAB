@@ -1,0 +1,15 @@
+G:\Personal\.NET-LAB\lab11\bin\Debug\net8.0\Lab11.exe
+G:\Personal\.NET-LAB\lab11\bin\Debug\net8.0\Lab11.deps.json
+G:\Personal\.NET-LAB\lab11\bin\Debug\net8.0\Lab11.runtimeconfig.json
+G:\Personal\.NET-LAB\lab11\bin\Debug\net8.0\Lab11.dll
+G:\Personal\.NET-LAB\lab11\bin\Debug\net8.0\Lab11.pdb
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\Lab11.AssemblyInfoInputs.cache
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\Lab11.AssemblyInfo.cs
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\Lab11.csproj.CoreCompileInputs.cache
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\Lab11.sourcelink.json
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\Lab11.dll
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\refint\Lab11.dll
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\Lab11.pdb
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\Lab11.genruntimeconfig.cache
+G:\Personal\.NET-LAB\lab11\obj\Debug\net8.0\ref\Lab11.dll
