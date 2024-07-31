@@ -1,0 +1,32 @@
+@model IEnumerable<SimpleCrudAdoNet.Models.Student>
+
+<h1>Students</h1>
+
+<p>
+    <a href="/Student/Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Address</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Address</td>
+                <td>
+                    <a href="/Student/Edit/@student.Id">Edit</a> |
+                    <a href="/Student/Delete/@student.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

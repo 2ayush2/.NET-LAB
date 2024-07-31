@@ -1,0 +1,9 @@
+G:\Personal\.NET-LAB\MvcAdoDemo\obj\Debug\net8.0\MvcAdoDemo.csproj.AssemblyReference.cache
+G:\Personal\.NET-LAB\MvcAdoDemo\obj\Debug\net8.0\MvcAdoDemo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Personal\.NET-LAB\MvcAdoDemo\obj\Debug\net8.0\MvcAdoDemo.AssemblyInfoInputs.cache
+G:\Personal\.NET-LAB\MvcAdoDemo\obj\Debug\net8.0\MvcAdoDemo.AssemblyInfo.cs
+G:\Personal\.NET-LAB\MvcAdoDemo\obj\Debug\net8.0\MvcAdoDemo.csproj.CoreCompileInputs.cache
+G:\Personal\.NET-LAB\MvcAdoDemo\obj\Debug\net8.0\MvcAdoDemo.MvcApplicationPartsAssemblyInfo.cache
+G:\Personal\.NET-LAB\MvcAdoDemo\obj\Debug\net8.0\MvcAdoDemo.RazorAssemblyInfo.cache
+G:\Personal\.NET-LAB\MvcAdoDemo\obj\Debug\net8.0\MvcAdoDemo.RazorAssemblyInfo.cs
+G:\Personal\.NET-LAB\MvcAdoDemo\obj\Debug\net8.0\MvcAdoDemo.sourcelink.json

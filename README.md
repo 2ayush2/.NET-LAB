@@ -39,6 +39,50 @@ cd MyFolder
  dotnet --version
  ### - Do steps 2 and 3 except [code .] command
 
+## After lab 12
+
+### Create new folder using mvc
+
+dotnet new mvc -n myFolder
+
+cd myFolder
+
+
+## Lab 13 DBContexxt
+
+### Before you start, make sure you have the necessary NuGet packages installed. You can add these packages using the .NET CLI:
+
+dotnet add package Microsoft.EntityFrameworkCore
+
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+###  Running the Application
+
+#### Create the Database:
+
+dotnet ef migrations add InitialCreate
+
+dotnet ef database update
+
+#### Run the application:
+
+dotnet run
+
+## CRUD LAB
+
+### Install the required package
+
+dotnet add package Microsoft.Data.Sqlite
+
+
+dotnet build 
+
+dotnet run
+
+
+
 
 
 
